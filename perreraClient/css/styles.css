@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+
+#loader{
+    display: flex;
+    padding-left: 1em;
+}
+
+#loader p{
+    font-size: 2em;
+    text-align: center;
+}

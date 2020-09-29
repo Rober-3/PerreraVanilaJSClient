@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "nombre": "Lord",
+    "raza": "Bichón maltés"
+},
+{
+    "id": 2,
+    "nombre": "Rintintín",
+    "raza": "Pastor alemán"
+},
+{
+    "id": 3,
+    "nombre": "Snoopy", 
+    "raza": "Sarnoso"
+},
+{
+    "id": 4,
+    "nombre": "Óscar Mayer",
+    "raza": "Salchicha"
+},
+{
+    "id": 5,
+    "nombre": "Zapata",
+    "raza": "Chihuahua"
+}
+]
